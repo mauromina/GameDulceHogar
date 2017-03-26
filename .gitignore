@@ -11,6 +11,8 @@
 *.userprefs
 
 # Build results
+#Ignorar Librery
+VideoGameDulceHogar/Library
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
